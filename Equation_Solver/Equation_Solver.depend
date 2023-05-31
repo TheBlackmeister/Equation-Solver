@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1638385098 source:c:\it\projekt_lin_sous\final\project\equation_solver\main.cpp
+	<math.h>
+	<clocale>
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	<time.h>
+	<fstream>
+	"rescource.h"
+
+1638366156 c:\it\projekt_lin_sous\final\project\equation_solver\rescource.h
+
+1638365670 source:c:\it\projekt_lin_sous\final\project\equation_solver\rescources.rcx.c
+
+1638049724 source:c:\it\projekt_lin_sous\final\project\equation_solver\icon.rc
+
+1638380431 source:c:\it\projekt_lin_sous\final\project\equation_solver\rescources.rc
+	"rescource.h"
+
