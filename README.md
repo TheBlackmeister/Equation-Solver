@@ -1,5 +1,5 @@
 # Equation-Solver
-This is my project for grammar school IT class, 2019.
+This is my project for grammar school IT class, 2020.
 
 It can solve difficult linear equations, matrixes with Gauss-Elimination method and can use the Cramer method for matrix 3x3. 
 
